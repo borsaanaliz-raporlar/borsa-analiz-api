@@ -1,6 +1,6 @@
 flask==2.3.2
 flask-cors==3.0.10
-pandas==1.5.3  # ← DAHA ESKİ, DAHA KARARLI VERSİYON
+pandas==1.5.2  # ← DAHA ESKİ, DAHA KARARLI VERSİYON
 openai==0.27.8
 python-dotenv==0.21.1
 gunicorn==20.1.0
